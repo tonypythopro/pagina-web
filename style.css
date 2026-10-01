@@ -1,0 +1,12 @@
+body  {
+    background-color: rgba(156, 39, 39, 0.614);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+    }
+
+
+
+    img {
+        width: 200px;
+        height: 250px;
+        margin-left: 550px; }
